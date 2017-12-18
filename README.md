@@ -8,6 +8,7 @@ I have co-founded [GrapeTech](https://www.hackx.org/aboutUs), a startup based in
 
 Previously, I did my undergraduate studies in [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) at UIUC, with minors in Computer Science, Math and Business. I was very fortunate to have [J. Gary Eden](https://ece.illinois.edu/directory/profile/jgeden) as my academic (and life) mentor throughout the four years. I have been working on image processing projects in [MRI lab](http://mri.beckman.uiuc.edu/) at UIUC during my sophomore year, supervised by [Zhi-Pei Liang](https://ece.illinois.edu/directory/profile/z-liang). 
 
+Feel free to email me at [zeqiuwu1@illinois.edu](mailto:zeqiuwu1@illinois.edu) if you have any questions!
 
 ### Publications
 
