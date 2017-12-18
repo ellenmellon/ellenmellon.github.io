@@ -13,7 +13,7 @@ __Zeqiu Wu__, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project p
 
 
 **[SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble](http://ecmlpkdd2017.ijs.si/papers/paperID296.pdf)**<br/>
-__Zeqiu Wu*__, Jiaming Shen*, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
+__Zeqiu Wu\*__, Jiaming Shen*, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
 
 
 **[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](https://arxiv.org/pdf/1610.08763.pdf)**<br/>
