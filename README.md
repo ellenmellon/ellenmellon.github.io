@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a second-year CS master student in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/), supervised by [Jiawei Han](http://hanj.cs.illinois.edu/). My research interest falls into areas of data mining, machine learning and natural language processing, focusing on turning massive unstructured text corpora into structured factual knowledge for better exploration and analysis of large corpora. I am currently working on tasks of information extraction and taxonomy construction from text corpus. Please see my recent publications for details. 
+I am a second-year CS master student in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/), supervised by [Jiawei Han](http://hanj.cs.illinois.edu/). My research interest falls into areas of **data mining, machine learning and natural language processing**, focusing on **turning massive unstructured text corpora into structured factual knowledge for better exploration and analysis of large corpora**. I am currently working on tasks of information extraction and taxonomy construction from text corpus. Please see my recent publications for details. 
 
 I have co-founded [GrapeTech](https://www.hackx.org/aboutUs), a startup based in Shanghai. We provide a platform [HackX](https://www.hackx.org) for organizing offline and online hackathons across China. Our long term goal is to promote project-based learning ([PBL](https://en.wikipedia.org/wiki/Project-based_learning)) for technology innovation in China. 
 
