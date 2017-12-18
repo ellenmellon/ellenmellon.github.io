@@ -30,3 +30,9 @@ Hong-Wei Ng, Xiaoxiao Wang, Xinyu Zhang, __Zeqiu Wu__. KBCOM Workshop at WSDM, 2
 
 ## Miscellaneous
 
+* I come from [Changzhou](https://www.youtube.com/watch?v=xZesWLZhy3U), a city in Southern Jiangsu Province of China. My native language is [Wu](https://en.wikipedia.org/wiki/Wu_Chinese). I left my hometown at the age of 15, and went to an international high school, [Cambridge International Centre (old name)](http://en.ulink.cn/Shanghai/), in Shanghai, before coming to the United States for college.
+
+* I have been working closely with [GrapeTech](https://www.hackx.org/aboutUs), a startup based in Shanghai. We provide a platform [HackX](https://www.hackx.org) for organizing offline and online hackathons across China. Our long term goal is to promote project-based learning ([PBL](https://en.wikipedia.org/wiki/Project-based_learning)) for technology innovation in China.
+
+* There are a lot of other things I love in this world: travel, music, philosophy, art, food ... 
+
