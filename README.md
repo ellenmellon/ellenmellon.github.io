@@ -1,6 +1,4 @@
-## [Ellen Wu's Homepage](http://ellenmellon.github.io/)
-
-### About Me
+## About Me
 
 I am a second-year CS master student in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/), supervised by [Jiawei Han](http://hanj.cs.illinois.edu/). My research interest falls into areas of data mining, machine learning and natural language processing, focusing on *turning massive unstructured text corpora into structured factual knowledge for better exploration and analysis of large corpora*. I am currently working on tasks of information extraction and taxonomy construction from text corpus. Please see my recent publications for details. 
 
@@ -10,7 +8,7 @@ Previously, I did my undergraduate studies in [Department of Electrical and Comp
 
 Feel free to email me at [zeqiuwu1@illinois.edu](mailto:zeqiuwu1@illinois.edu) if you have any questions!
 
-### Publications
+## Publications
 
 **[Indirect Supervision for Relation Extraction Using Question-Answer Pairs](https://arxiv.org/pdf/1710.11169.pdf)**<br/>
 Zeqiu Wu, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project page]](https://ellenmellon.github.io/ReQuest/)
