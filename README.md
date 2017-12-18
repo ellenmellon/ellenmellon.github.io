@@ -11,21 +11,21 @@ Feel free to email me at [zeqiuwu1@illinois.edu](mailto:zeqiuwu1@illinois.edu) i
 ## Publications
 
 **[Indirect Supervision for Relation Extraction Using Question-Answer Pairs](https://arxiv.org/pdf/1710.11169.pdf)**<br/>
-Zeqiu Wu, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project page]](https://ellenmellon.github.io/ReQuest/)
+__*Zeqiu Wu*__, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project page]](https://ellenmellon.github.io/ReQuest/)
 
 
 **[SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble](http://ecmlpkdd2017.ijs.si/papers/paperID296.pdf)**<br/>
-Jiaming Shen*, Zeqiu Wu*, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
+Jiaming Shen*, __*Zeqiu Wu**__, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
 
 
 **[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](https://arxiv.org/pdf/1610.08763.pdf)**<br/>
-Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han. WWW, 2017.
+Xiang Ren, __*Zeqiu Wu*__, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Abdelzaher, Jiawei Han. WWW, 2017.
 
 
 **[Life-iNet: A Structured Network-Based Knowledge Exploration and Analytics System for Life Sciences](http://xren7.web.engr.illinois.edu/acl2017_camera%20ready.pdf)**<br/>
-Xiang Ren, Jiaming Shen, Meng Qu, Xuan Wang, Zeqiu Wu, Qi Zhu, Meng Jiang, Fangbo Tao, Saurabh Sinha, David Liem, Peipei Ping, Richard Weinshilboum, Jiawei Han. (system demo) ACL, 2017.
+Xiang Ren, Jiaming Shen, Meng Qu, Xuan Wang, __*Zeqiu Wu*__, Qi Zhu, Meng Jiang, Fangbo Tao, Saurabh Sinha, David Liem, Peipei Ping, Richard Weinshilboum, Jiawei Han. (system demo) ACL, 2017.
 
 
 **Improving Question Answering Sentence Ranking by Rank Propagation**<br/>
-Hong-Wei Ng, Xiaoxiao Wang, Xinyu Zhang, Zeqiu Wu. KBCOM Workshop at WSDM, 2018.
+Hong-Wei Ng, Xiaoxiao Wang, Xinyu Zhang, __*Zeqiu Wu*__. KBCOM Workshop at WSDM, 2018.
 
