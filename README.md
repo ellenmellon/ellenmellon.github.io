@@ -34,5 +34,3 @@ Hong-Wei Ng, Xiaoxiao Wang, Xinyu Zhang, __Zeqiu Wu__. KBCOM Workshop at WSDM, 2
 
 * I have been working closely with [GrapeTech](https://www.hackx.org/aboutUs), a startup based in Shanghai. We provide a platform [HackX](https://www.hackx.org) for organizing offline and online hackathons across China. Our long term goal is to promote project-based learning ([PBL](https://en.wikipedia.org/wiki/Project-based_learning)) for technology innovation in China.
 
-* There are a lot of other things I love in this world: travel, music, philosophy, art, food ... 
-
