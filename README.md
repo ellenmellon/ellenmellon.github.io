@@ -1,10 +1,10 @@
 ## About Me
 
-I am a second-year PhD student in [University of Washington NLP Research Group](https://nlp.washington.edu/), supervised by [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). My current research interest includes knowledge representation and reasoning for grounded language generation, as well as interactive document generation. I spent two summers interning at [MSR NLP](https://www.microsoft.com/en-us/research/group/natural-language-processing/) reseach group with my mentors [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/), and many other great researchers.
+I am a third-year PhD student in [University of Washington NLP Research Group](https://nlp.washington.edu/), supervised by [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). My current research interest includes knowledge representation and reasoning for grounded language generation, as well as interactive document generation. I spent two summers interning at [MSR NLP](https://www.microsoft.com/en-us/research/group/natural-language-processing/) reseach group with my mentors [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/), and many other great researchers.
 
 Previously, I did my master in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/), supervised by [Jiawei Han](http://hanj.cs.illinois.edu/). I did my undergraduate studies in [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) also at UIUC, with minors in Computer Science, Math and Business. I was very fortunate to have [J. Gary Eden](https://ece.illinois.edu/directory/profile/jgeden) as my academic (and life) mentor throughout the four years. I have been working on image processing projects in [MRI lab](http://mri.beckman.uiuc.edu/) at UIUC during my sophomore year, supervised by [Zhi-Pei Liang](https://ece.illinois.edu/directory/profile/z-liang). 
 
-Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at [zeqiuwu1@uw.edu](mailto:zeqiuwu1@uw.edu) if you have any questions!
+Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at [zeqiuwu1 [at] uw [dot] edu] if you have any questions!
 
 ## Publications
 
