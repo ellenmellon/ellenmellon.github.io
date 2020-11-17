@@ -4,7 +4,7 @@ I am a third-year PhD student in [University of Washington NLP Research Group](h
 
 Previously, I did my master in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/), supervised by [Jiawei Han](http://hanj.cs.illinois.edu/). I did my undergraduate studies in [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) also at UIUC, with minors in Computer Science, Math and Business. I was very fortunate to have [J. Gary Eden](https://ece.illinois.edu/directory/profile/jgeden) as my academic (and life) mentor throughout the four years. I have been working on image processing projects in [MRI lab](http://mri.beckman.uiuc.edu/) at UIUC during my sophomore year, supervised by [Zhi-Pei Liang](https://ece.illinois.edu/directory/profile/z-liang). 
 
-Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at [zeqiuwu1 [at] uw [dot] edu] if you have any questions!
+Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] uw [dot] edu if you have any questions!
 
 ## Publications
 
