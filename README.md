@@ -14,7 +14,7 @@ __Zeqiu Wu__, Rik Koncel-Kedziorski, Mari Ostendorf, Hannaneh Hajishirzi. Prepri
 
 
 **[A Controllable Model of Grounded Response Generation](https://arxiv.org/pdf/2005.00613.pdf)**<br/>
-__Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan. Preprint. 2020.
+__Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan. AAAI, 2021.
 
 
 **[HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf)**<br/>
