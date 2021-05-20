@@ -9,7 +9,7 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 ## Publications
 
 
-**[Automatic Document Sketching: Generating Drafts from Analogous Texts]**<br/>
+**Automatic Document Sketching: Generating Drafts from Analogous Texts**<br/>
 __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. ACL Findings. 2021.
 
 
