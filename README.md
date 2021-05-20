@@ -9,12 +9,16 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 ## Publications
 
 
-**[Extracting Summary Knowledge Graphs from Long Documents](https://arxiv.org/pdf/2009.09162.pdf)**<br/>
-__Zeqiu Wu__, Rik Koncel-Kedziorski, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2020.
+**[Automatic Document Sketching: Generating Drafts from Analogous Texts]**<br/>
+__Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. ACL Findings. 2021.
 
 
 **[A Controllable Model of Grounded Response Generation](https://arxiv.org/pdf/2005.00613.pdf)**<br/>
 __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk, Rik Koncel-Kedziorski, Jianfeng Gao, Hannaneh Hajishirzi, Mari Ostendorf, Bill Dolan. AAAI, 2021.
+
+
+**[Extracting Summary Knowledge Graphs from Long Documents](https://arxiv.org/pdf/2009.09162.pdf)**<br/>
+__Zeqiu Wu__, Rik Koncel-Kedziorski, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2020.
 
 
 **[HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf)**<br/>
