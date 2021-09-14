@@ -13,8 +13,8 @@ __Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP, 2021.
 
 
 **A Multi-Passage Knowledge Selector for Information-Seeking Dialogues**<br/>
-__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc at ACL, 2021. (winner of the DialDoc Shared Task subtask 1, non-archival system description paper)
-
+__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc at ACL, 2021. (non-archival system description paper)<br/>
+<span style="color:red">*__1st prize of the DialDoc Shared Task subtask 1__*</span>
 
 **[Automatic Document Sketching: Generating Drafts from Analogous Texts](https://arxiv.org/pdf/2106.07192.pdf)**<br/>
 __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. Findings of ACL. 2021.
