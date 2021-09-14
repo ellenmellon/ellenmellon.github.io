@@ -9,15 +9,15 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 ## Publications
 
 **[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization](https://arxiv.org/abs/2109.04673)**<br/>
-__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP. 2021.
+__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP, 2021.
 
 
 **A Multi-Passage Knowledge Selector for Information-Seeking Dialogues**<br/>
-__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc\@ACL. 2021. (winner of the DialDoc Shared Task subtask 1, non-archival system description paper)
+__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc at ACL, 2021. (winner of the DialDoc Shared Task subtask 1, non-archival system description paper)
 
 
 **[Automatic Document Sketching: Generating Drafts from Analogous Texts](https://arxiv.org/pdf/2106.07192.pdf)**<br/>
-__Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. Findings of ACL. 2021.
+__Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. Findings of ACL, 2021.
 
 
 **[A Controllable Model of Grounded Response Generation](https://arxiv.org/pdf/2005.00613.pdf)**<br/>
