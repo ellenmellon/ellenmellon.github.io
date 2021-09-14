@@ -8,6 +8,13 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 
 ## Publications
 
+**[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization](https://arxiv.org/abs/2109.04673)**<br/>
+__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP, 2021.
+
+
+**A Multi-Passage Knowledge Selector for Information-Seeking Dialogues**<br/>
+__Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc at ACL, 2021. (winner of the DialDoc Shared Task subtask 1, non-archival system description paper)
+
 
 **[Automatic Document Sketching: Generating Drafts from Analogous Texts](https://arxiv.org/pdf/2106.07192.pdf)**<br/>
 __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. Findings of ACL. 2021.
@@ -30,7 +37,7 @@ __Zeqiu Wu__, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project p
 
 
 **[SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble](http://ecmlpkdd2017.ijs.si/papers/paperID296.pdf)**<br/>
-__Zeqiu Wu\*__, Jiaming Shen*, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
+Jiaming Shen*, __Zeqiu Wu\*__, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
 
 
 **[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](https://arxiv.org/pdf/1610.08763.pdf)**<br/>
