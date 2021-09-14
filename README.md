@@ -8,6 +8,13 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 
 ## Publications
 
+**[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization](https://arxiv.org/abs/2109.04673)**<br/>
+__Zeqiu Wu*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP. 2021.
+
+
+**A Multi-Passage Knowledge Selector for Information-Seeking Dialogues**<br/>
+__Zeqiu Wu*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. DialDoc@ACL. 2021. (winner of the DialDoc Shared Task subtask 1, non-archival system description paper)
+
 
 **[Automatic Document Sketching: Generating Drafts from Analogous Texts](https://arxiv.org/pdf/2106.07192.pdf)**<br/>
 __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Bill Dolan. Findings of ACL. 2021.
@@ -30,7 +37,7 @@ __Zeqiu Wu__, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han. WSDM, 2018. [[project p
 
 
 **[SetExpan: Corpus-Based Set Expansion via Context Feature Selection and Rank Ensemble](http://ecmlpkdd2017.ijs.si/papers/paperID296.pdf)**<br/>
-__Zeqiu Wu\*__, Jiaming Shen*, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
+Jiaming Shen*, __Zeqiu Wu\*__, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han. ECML-PKDD, 2017.
 
 
 **[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](https://arxiv.org/pdf/1610.08763.pdf)**<br/>
@@ -39,5 +46,4 @@ Xiang Ren, __Zeqiu Wu__, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Ab
 
 **[Life-iNet: A Structured Network-Based Knowledge Exploration and Analytics System for Life Sciences](http://xren7.web.engr.illinois.edu/acl2017_camera%20ready.pdf)**<br/>
 Xiang Ren, Jiaming Shen, Meng Qu, Xuan Wang, __Zeqiu Wu__, Qi Zhu, Meng Jiang, Fangbo Tao, Saurabh Sinha, David Liem, Peipei Ping, Richard Weinshilboum, Jiawei Han. (system demo) ACL, 2017.
-
 
