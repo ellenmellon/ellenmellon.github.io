@@ -38,4 +38,3 @@ Xiang Ren, __Zeqiu Wu__, Wenqi He, Meng Qu, Clare R. Voss, Heng Ji, Tarek F. Ab
 
 **[Life-iNet: A Structured Network-Based Knowledge Exploration and Analytics System for Life Sciences](http://xren7.web.engr.illinois.edu/acl2017_camera%20ready.pdf)**<br/>
 Xiang Ren, Jiaming Shen, Meng Qu, Xuan Wang, __Zeqiu Wu__, Qi Zhu, Meng Jiang, Fangbo Tao, Saurabh Sinha, David Liem, Peipei Ping, Richard Weinshilboum, Jiawei Han. (system demo) ACL, 2017.
-
