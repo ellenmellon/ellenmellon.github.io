@@ -6,10 +6,16 @@ I did my master in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/). D
 
 Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] uw [dot] edu if you have any questions!
 
+
 ## Publications
+
+**[INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions](papers/INSCIT.pdf)**<br/>
+__Zeqiu Wu__, Ryu Parish, Hao Cheng, Sewon Min, Prithviraj Ammanabrolu, Mari Ostendorf, Hannaneh Hajishirzi. Preprint, 2022.
+
 
 **[CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning](https://arxiv.org/abs/2112.08558)**<br/>
 __Zeqiu Wu__, Yi Luan, Hannah Rashkin, David Reitter, Hannaneh Hajishirzi, Mari Ostendorf, Gaurav Singh Tomar. Preprint, 2022.
+
 
 **[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization](https://arxiv.org/abs/2109.04673)**<br/>
 __Zeqiu Wu\*__, Bo-Ru Lu*, Hannaneh Hajishirzi, Mari Ostendorf. EMNLP, 2021.
