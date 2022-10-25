@@ -10,11 +10,11 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] 
 ## Publications
 
 **[INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions](papers/INSCIT.pdf)**<br/>
-__Zeqiu Wu__, Ryu Parish, Hao Cheng, Sewon Min, Prithviraj Ammanabrolu, Mari Ostendorf, Hannaneh Hajishirzi. Preprint, 2022.
+__Zeqiu Wu__, Ryu Parish, Hao Cheng, Sewon Min, Prithviraj Ammanabrolu, Mari Ostendorf, Hannaneh Hajishirzi. TACL (conditional), 2022.
 
 
 **[CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning](https://arxiv.org/abs/2112.08558)**<br/>
-__Zeqiu Wu__, Yi Luan, Hannah Rashkin, David Reitter, Hannaneh Hajishirzi, Mari Ostendorf, Gaurav Singh Tomar. Preprint, 2022.
+__Zeqiu Wu__, Yi Luan, Hannah Rashkin, David Reitter, Hannaneh Hajishirzi, Mari Ostendorf, Gaurav Singh Tomar. EMNLP, 2022.
 
 
 **[DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization](https://arxiv.org/abs/2109.04673)**<br/>
