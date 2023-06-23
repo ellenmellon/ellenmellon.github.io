@@ -9,7 +9,7 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [do
 
 ## Preprints and Publications
 
-**[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2207.00746)**<br/>
+**[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
 __Zeqiu Wu\*__, Yushi Hu*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A. Smith, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2023. [[project page]](https://finegrainedrlhf.github.io/)
 
 
