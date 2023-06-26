@@ -1,16 +1,20 @@
 ## About Me
 
-I am a fifth-year PhD student in [University of Washington NLP Research Group](https://nlp.washington.edu/), supervised by [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). My current research focuses on information-seeking conversational systems and general interactive systems. I was an intern and a student researcher at [Google Research](https://ai.google/research/), working with [Gaurav Tomar](https://research.google/people/GauravSinghTomar/), [Yi Luan](https://luanyi.github.io/) and [Hannah Rashkin](https://hrashkin.github.io/). In the past, I spent two summers interning at [MSR NLP](https://www.microsoft.com/en-us/research/group/natural-language-processing/) reseach group with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/), and many other great researchers. In the past year, I also had the great pleasure to mentor [Ryu Parish](https://ryuparish.github.io/ryus_website/), a brilliant and passionate undergrad researcher at UW.
+I am a final year PhD student in [University of Washington NLP Group](https://nlp.washington.edu/), supervised by [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). My research lies in the area of natural language processing and machine learning. Specifically, I'm currently working on building and improving language models that respond to and learn from information-seeking humans. I was an intern and a student researcher at [Google Research](https://ai.google/research/), working with [Gaurav Tomar](https://research.google/people/GauravSinghTomar/), [Yi Luan](https://luanyi.github.io/) and [Hannah Rashkin](https://hrashkin.github.io/). In the past, I spent two summers interning at [MSR NLP](https://www.microsoft.com/en-us/research/group/natural-language-processing/) reseach group with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/), and many other great researchers. I also had the great pleasure to mentor [Ryu Parish](https://ryuparish.github.io/ryus_website/), a brilliant and passionate undergrad researcher at UW.
 
-I did my master in [UIUC Data Mining Research Group](http://dm1.cs.uiuc.edu/). During that two years, I was mainly supervised by [Jiawei Han](http://hanj.cs.illinois.edu/) and closely worked with [Xiang Ren](https://shanzhenren.github.io/) - both of them sparked my great interest in doing research. I did my undergraduate studies in [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) also at UIUC, with minors in Computer Science, Math and Business. I was very fortunate to have [J. Gary Eden](https://ece.illinois.edu/directory/profile/jgeden) as my academic (and life) mentor throughout the four years. I have also been working on various undergraduate research projects with [Zhi-Pei Liang](https://ece.illinois.edu/directory/profile/z-liang) and [Liming Feng](https://fenglm.web.engr.illinois.edu/). 
+I did my master in [UIUC Data Mining Group](http://dm1.cs.uiuc.edu/). During that two years, I was mainly supervised by [Jiawei Han](http://hanj.cs.illinois.edu/) and closely worked with [Xiang Ren](https://shanzhenren.github.io/) - both of them sparked my great interest in doing research. I did my undergraduate studies in electrical engineering also at UIUC, with minors in computer science, math and business. I was very fortunate to have [J. Gary Eden](https://ece.illinois.edu/directory/profile/jgeden) as my academic (and life) mentor throughout the four years. 
 
-Here is my updated [CV](ZeqiuWu-CV.pdf). Feel free to email me at zeqiuwu1 [at] uw [dot] edu if you have any questions!
+Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [dot] edu.
 
 
-## Publications
+## Preprints and Publications
 
-**[INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions](papers/INSCIT.pdf)**<br/>
-__Zeqiu Wu__, Ryu Parish, Hao Cheng, Sewon Min, Prithviraj Ammanabrolu, Mari Ostendorf, Hannaneh Hajishirzi. TACL (conditional), 2022.
+**[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
+__Zeqiu Wu\*__, Yushi Hu*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A. Smith, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2023. [[project page]](https://finegrainedrlhf.github.io/)
+
+
+**[INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746)**<br/>
+__Zeqiu Wu__, Ryu Parish, Hao Cheng, Sewon Min, Prithviraj Ammanabrolu, Mari Ostendorf, Hannaneh Hajishirzi. TACL, 2023.
 
 
 **[CONQRR: Conversational Query Rewriting for Retrieval with Reinforcement Learning](https://arxiv.org/abs/2112.08558)**<br/>
