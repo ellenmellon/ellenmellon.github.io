@@ -12,7 +12,7 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [do
 ## Publications / Preprints
 
 **[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
-__Zeqiu Wu\*__, Yushi Hu\*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2023. [[project page]](https://finegrainedrlhf.github.io/)
+__Zeqiu Wu\*__, Yushi Hu\*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2023. [[project page]](https://finegrainedrlhf.github.io/)[[coverage]](https://montrealethics.ai/fine-grained-human-feedback-gives-better-rewards-for-language-model-training/)
 
 **[DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations](https://arxiv.org/pdf/2307.07047.pdf)**<br/>
 Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, __Zeqiu Wu__, Hao Cheng, Paul Koester, Jean Utke, Tao Yu, Noah A Smith, Mari Ostendorf. Preprint. 2023.
