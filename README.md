@@ -1,6 +1,6 @@
 ## About Me
 
-<span style="color:orange">I'm on the job market for industry research positions!</span>
+<span style="color:orange;font-weight:bold">I'm on the job market for industry research positions!</span>
 
 I am a final year PhD student in [University of Washington NLP Group](https://nlp.washington.edu/), supervised by [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/). My research lies in the area of natural language processing and machine learning. Specifically, I'm currently working on building and improving language models that respond to and learn from information-seeking humans. I was an intern and a student researcher at [Google Research](https://ai.google/research/) (currently Google DeepMind), working with [Gaurav Tomar](https://research.google/people/GauravSinghTomar/), [Yi Luan](https://luanyi.github.io/), [Hannah Rashkin](https://hrashkin.github.io/) and [David Reitter](http://david-reitter.com). In the past, I spent two summers interning at [MSR NLP](https://www.microsoft.com/en-us/research/group/natural-language-processing/) reseach group with [Michel Galley](https://www.microsoft.com/en-us/research/people/mgalley/) and [Bill Dolan](https://www.microsoft.com/en-us/research/people/billdol/), and many other great researchers. I also had the great pleasure to mentor [Ryu Parish](https://ryuparish.github.io/ryus_website/), a brilliant and passionate undergrad researcher at UW.
 
