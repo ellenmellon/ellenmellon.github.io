@@ -12,10 +12,10 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [do
 ## Publications / Preprints
 
 **[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
-__Zeqiu Wu\*__, Yushi Hu\*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2023. [[project page]](https://finegrainedrlhf.github.io/)[[coverage]](https://montrealethics.ai/fine-grained-human-feedback-gives-better-rewards-for-language-model-training/)
+__Zeqiu Wu\*__, Yushi Hu\*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. NeurIPS (<span style="color:red">*spotlight*</span>), 2023. [[project page]](https://finegrainedrlhf.github.io/)[[coverage]](https://montrealethics.ai/fine-grained-human-feedback-gives-better-rewards-for-language-model-training/)
 
 **[DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations](https://arxiv.org/pdf/2307.07047.pdf)**<br/>
-Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, __Zeqiu Wu__, Hao Cheng, Paul Koester, Jean Utke, Tao Yu, Noah A Smith, Mari Ostendorf. Preprint. 2023.
+Bo-Ru Lu\*, Nikita Haduong\*, Chia-Hsuan Lee, __Zeqiu Wu__, Hao Cheng, Paul Koester, Jean Utke, Tao Yu, Noah A Smith, Mari Ostendorf. Preprint, 2023.
 
 
 **[INSCIT: Information-Seeking Conversations with Mixed-Initiative Interactions](https://arxiv.org/abs/2207.00746)**<br/>
@@ -43,7 +43,7 @@ __Zeqiu Wu__, Michel Galley, Chris Brockett, Yizhe Zhang, Xiang Gao, Chris Quirk
 
 
 **[Extracting Summary Knowledge Graphs from Long Documents](https://arxiv.org/pdf/2009.09162.pdf)**<br/>
-__Zeqiu Wu__, Rik Koncel-Kedziorski, Mari Ostendorf, Hannaneh Hajishirzi. Preprint. 2020.
+__Zeqiu Wu__, Rik Koncel-Kedziorski, Mari Ostendorf, Hannaneh Hajishirzi. Preprint, 2020.
 
 
 **[HiExpan: Task-Guided Taxonomy Construction by Hierarchical Tree Expansion](http://hanj.cs.illinois.edu/pdf/kdd18_jshen.pdf)**<br/>
