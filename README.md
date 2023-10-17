@@ -11,6 +11,9 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [do
 
 ## Publications / Preprints
 
+**Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection**<br/>
+Akari Asai, __Zeqiu Wu__, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi. Preprint, 2023. [[project page]](https://selfrag.github.io)
+
 **[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
 __Zeqiu Wu\*__, Yushi Hu\*, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. NeurIPS (<span style="color:red">*spotlight*</span>), 2023. [[project page]](https://finegrainedrlhf.github.io/)[[coverage]](https://montrealethics.ai/fine-grained-human-feedback-gives-better-rewards-for-language-model-training/)
 
