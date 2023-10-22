@@ -11,7 +11,7 @@ Here is my updated [CV](ZeqiuWu-CV.pdf). Reach out to me at zeqiuwu1 [at] uw [do
 
 ## Publications / Preprints
 
-**Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection**<br/>
+**[Self-RAG: Learning to Retrieve, Generate and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)**<br/>
 Akari Asai, __Zeqiu Wu__, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi. Preprint, 2023. [[project page]](https://selfrag.github.io)
 
 **[Fine-Grained Human Feedback Gives Better Rewards for Language Model Training](https://arxiv.org/abs/2306.01693)**<br/>
